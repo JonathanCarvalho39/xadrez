@@ -9,6 +9,10 @@ public class Position {
         this.row = row;
     }
 
+    public Position(){
+
+    }
+
     public void setColunm(int colunm) {
         this.colunm = colunm;
     }
