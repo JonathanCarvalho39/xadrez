@@ -1,4 +1,4 @@
-package entitie;
+package boardgame;
 
 public class Position {
     private int colunm;
